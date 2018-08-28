@@ -18,6 +18,10 @@
   },
   "repositories": [
     {
+      "type": "composer",
+      "url": "https://packagist.phpcomposer.com"
+    },
+    {
       "type": "vcs",
       "url": "https://github.com/thephpleague/container.git"
     }

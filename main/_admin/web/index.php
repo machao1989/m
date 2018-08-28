@@ -6,4 +6,5 @@
  * Time: 14:12
  */
 
-require 'core/main.php';
+require __DIR__.'/../../main.php';
+
