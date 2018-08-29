@@ -8,5 +8,7 @@
 
 $incs = get_included_files();
 
-$app =  new App($incs);
+require __DIR__.'/../vendor/autoload.php';
+require __DIR__.'/boot.php';
+
 
