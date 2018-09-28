@@ -15,7 +15,9 @@
     "guzzlehttp/psr7": "^1.4",
     "mongodb/mongodb": "^1.4",
     "league/container": "~3.2",
-    "league/route": "^4.0"
+    "league/plates": "3.*",
+    "psr/http-server-handler": "^1.0",
+    "psr/http-server-middleware": "^1.0"
   },
   "repositories": [
     {

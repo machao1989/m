@@ -2,13 +2,13 @@
 /**
  * Created by PhpStorm.
  * User: machao
- * Date: 2018/8/29
- * Time: 11:45
+ * Date: 2018/9/7
+ * Time: 13:43
  */
 
 namespace admin\controller;
 
 
-class AnitController {
+class loginController {
 
 }
